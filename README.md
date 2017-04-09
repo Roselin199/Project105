@@ -5,7 +5,7 @@
 <th colspan="6"><b><u><i>GOVERNMENT JOB PORTAL WEBSITE</i></u></b></th>
 </tr>
 <tr>
-<th><b>TITLE</b></th><th><b>STATUS</b></th><th>STATUS CODE</th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
+<th><b>TITLE</b></th><th><b>STATUS</b></th><th><b>STATUS CODE</b></th><th><b>REQUIREMENTS</b></th><th><b>SUGGESTION</b></th>
 </tr>
 <tr>
 <th><font color="red" size="5">Page Title</font></th>
