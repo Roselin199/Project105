@@ -86,63 +86,60 @@
 <th><font color="green">Robots.txt Test</font></th>
 <td>Found</td>
 <td>Your site use a "robots.txt"</td>
-<td><a href=" http://govtjobsportal.in/robots.txt"></a></td>
+<td>http://govtjobsportal.in/robots.txt"</td>
 </tr>
 <tr>
 <td><b>13.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Sitemap Test</font></th>
+<td>OK</td>
+<td>We've found 1 sitemaps files for your website:</td>
+<td>⟩⟩ http://www.govtjobsportal.in/sitemap.xml</td>
 </tr>
 <tr>
 <td><b>14.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Broken Links Test	</font></th>
+<td>Not Found</td>
+<td> 156 distinct anchor links analyzed, none of them appears to be broken.</td>
 </tr>
 <tr>
 <td><b>15.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Favicon Test</font></th>
+<td>Good</td>
+<td>Your website appears to have a favicon.</td>
+<td><img src="http://www.govtjobsportal.in/favicon.ico"></td>
 </tr>
 <tr>
 <td><b>16.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">WWW redirection Test</font></th>
+<td>Ok</td>
+<td>a redirect is in place to redirect traffic from your non-preferred domain. </td>
+<td> your website directs www.govtjobsportal.in and govtjobsportal.in to the same URL.</td>
 </tr>
 <tr>
 <td><b>17.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Noindex Tag Checker</font></th>
+<td>Not Found</td>
+<td>null</td>
 </tr>
 <tr>
 <td><b>18.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Nofollow Tag Checker</font></th>
+<td>Not Found</td>
+<td>null</td>
 </tr>
 <tr>
 <td><b>19.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Underscores in Links Test</font></th>
+<td>Not Found</td>
+<td> We have not found underscores in your in-page URLs!</td>
+<td>http://www.govtjobsportal.in/2017/04/kerala-public-service-commission_19.html</td>
 </tr>
 <tr>
 <td><b>20.</b></td>
-<th><font color="green"></font></th>
-<td></td>
-<td></td>
-<td></td>
+<th><font color="green">Keywords Test	</font></th>
+<td>Not Found</td>
+<td>Your most common keywords are not appearing in one or more of the meta-tags above.</td>
+<td>Your primary keywords should appear in your meta-tags to help identify the topic of your webpage to search engines.</td>
 </tr>
 </table>
 
@@ -153,27 +150,27 @@
 </tr>
 <tr>
 <th><font color="red" size="3">Website Title</font></th>
-<td></td>
+<td> Govt Jobs, Recruitment in India 2017 -10th, 12th Pass Government Jobs	</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Email</font></th>
-<td></td>
+<td>pankajrattan47@gmail.com</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Page Rank</font></th>
-<td></td>
+<td>2</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Created On</font></th>
-<td></td>
+<td>11-02-2013</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Updated On</font></th>
-<td></td>
+<td>28-12-2015</td>
 </tr>
 <tr>
 <th><font color="red" size="3">Expires On</font></th>
-<td></td>
+<td>11-02-2021</td>
 </tr>
 <tr>
 <th><font color="red" size="5">SEO Grade</font></th>
