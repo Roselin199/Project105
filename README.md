@@ -169,11 +169,11 @@
 <td>28-12-2015</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Expires On</font></th>
+<th><font color="blue" size="3">Expires On</font></th>
 <td>11-02-2021</td>
 </tr>
 <tr>
-<th><font color="blue" size="5">SEO Grade</font></th>
+<th><font color="red" size="5">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
 <tr>
