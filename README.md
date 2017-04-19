@@ -153,7 +153,7 @@
 <td> Govt Jobs, Recruitment in India 2017 -10th, 12th Pass Government Jobs	</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Email</font></th>
+<th><font color="blue" size="3">Email</font></th>
 <td>pankajrattan47@gmail.com</td>
 </tr>
 <tr>
@@ -161,7 +161,7 @@
 <td>2</td>
 </tr>
 <tr>
-<th><font color="red" size="3">Created On</font></th>
+<th><font color="blue" size="3">Created On</font></th>
 <td>11-02-2013</td>
 </tr>
 <tr>
@@ -173,7 +173,7 @@
 <td>11-02-2021</td>
 </tr>
 <tr>
-<th><font color="red" size="5">SEO Grade</font></th>
+<th><font color="blue" size="5">SEO Grade</font></th>
 <td><img src="http://smallseotools.com/imgs/badge-bronze.png" alt="seo checker"/></td>
 </tr>
 <tr>
